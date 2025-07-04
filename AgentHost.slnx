@@ -4,4 +4,6 @@
   <Project Path="AgentHost.ServiceDefaults/AgentHost.ServiceDefaults.csproj" />
   <Project Path="AgentHost.Tests/AgentHost.Tests.csproj" />
   <Project Path="AgentHost.Web/AgentHost.Web.csproj" />
+  <Project Path="ModelProvidersLib/ModelProvidersLib.csproj" Id="0ef84da4-107b-42f8-9247-9b21ef47e017" />
+  <Project Path="SharedLib/SharedLib.csproj" Id="01996f35-5ae7-4825-84a4-8f7d95043842" />
 </Solution>
